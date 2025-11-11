@@ -22,3 +22,5 @@ console.log(
   `Para uma viagem de ${distanciaEmKm} km, com um veículo que faz ${kmPorLitro} km/L, e o preço do combustível a R$ ${precoCombustivel} por litro,`
 );
 console.log(`O valor total da viagem é de R$ ${valorTotalDaViagem.toFixed(2)}`);
+
+//
